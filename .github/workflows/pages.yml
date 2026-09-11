@@ -1,0 +1,37 @@
+# Template — copy this file to `lzatracer-poc2-docs/.github/workflows/pages.yml`
+# in the sibling repo. It deploys the sibling's own contents to GitHub Pages
+# using the default GITHUB_TOKEN — no secrets required.
+#
+# Sibling-repo prereqs (one-time):
+#   1. Repo must be Public (free-tier Pages) OR account on Pro/Team/Enterprise.
+#   2. Settings → Pages → Build and deployment → Source = "GitHub Actions".
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: deployment
+        uses: actions/deploy-pages@v5
