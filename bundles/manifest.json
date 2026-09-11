@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-11T20:12:36.091Z",
+  "generatedAt": "2026-09-11T21:39:11.151Z",
   "ucName": "LZA Universal Configuration",
   "pairs": [
     {
@@ -40,7 +40,7 @@
       "variantSlug": "lza-uc-v1-1-0",
       "sha8": "cabbe04c",
       "filename": "coverage-uc1.3.1-lza-uc-v1-1-0-cabbe04c.json",
-      "size": 72497,
+      "size": 269939,
       "name": "LZA UC v1.1.0 (cross-version compare)"
     },
     {
@@ -48,7 +48,7 @@
       "variantSlug": "lza-uc-v1-2-0",
       "sha8": "8a9824e0",
       "filename": "coverage-uc1.3.1-lza-uc-v1-2-0-8a9824e0.json",
-      "size": 72549,
+      "size": 269991,
       "name": "LZA UC v1.2.0 (cross-version compare)"
     },
     {
@@ -56,7 +56,7 @@
       "variantSlug": "lza-uc-v1-3-0",
       "sha8": "68208093",
       "filename": "coverage-uc1.3.1-lza-uc-v1-3-0-68208093.json",
-      "size": 72549,
+      "size": 281748,
       "name": "LZA UC v1.3.0 (point-release compare)"
     },
     {
