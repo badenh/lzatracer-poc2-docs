@@ -1,0 +1,349 @@
+{
+  "version": "1",
+  "generatedAt": "2026-09-11T04:26:41.959Z",
+  "pairs": [
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-cccs-medium",
+      "sha8": "46c88b8f",
+      "measurablePct": 0.34234234234234234,
+      "fullCatalogPct": 0.19689119170984457,
+      "totals": {
+        "covered": 38,
+        "partial": 37,
+        "missing": 116,
+        "weakened": 2,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.125,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.21052631578947367,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.2926829268292683,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-education",
+      "sha8": "ef2b06cf",
+      "measurablePct": 0.5225225225225225,
+      "fullCatalogPct": 0.3005181347150259,
+      "totals": {
+        "covered": 58,
+        "partial": 17,
+        "missing": 116,
+        "weakened": 2,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.125,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.05263157894736842,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.573170731707317,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-healthcare",
+      "sha8": "2916b696",
+      "measurablePct": 0.3783783783783784,
+      "fullCatalogPct": 0.21761658031088082,
+      "totals": {
+        "covered": 42,
+        "partial": 33,
+        "missing": 116,
+        "weakened": 2,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.125,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.05263157894736842,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.3780487804878049,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-tse-se",
+      "sha8": "fc92d7f4",
+      "measurablePct": 0.34234234234234234,
+      "fullCatalogPct": 0.19689119170984457,
+      "totals": {
+        "covered": 38,
+        "partial": 37,
+        "missing": 116,
+        "weakened": 2,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.125,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.21052631578947367,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.2926829268292683,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-1-0",
+      "sha8": "cabbe04c",
+      "measurablePct": 0.6036036036036037,
+      "fullCatalogPct": 0.3471502590673575,
+      "totals": {
+        "covered": 67,
+        "partial": 2,
+        "missing": 124,
+        "weakened": 0,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.16666666666666666,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.6707317073170732,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-2-0",
+      "sha8": "8a9824e0",
+      "measurablePct": 0.6126126126126126,
+      "fullCatalogPct": 0.35233160621761656,
+      "totals": {
+        "covered": 68,
+        "partial": 1,
+        "missing": 124,
+        "weakened": 0,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.16666666666666666,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.6829268292682927,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-0",
+      "sha8": "68208093",
+      "measurablePct": 0.6126126126126126,
+      "fullCatalogPct": 0.35233160621761656,
+      "totals": {
+        "covered": 68,
+        "partial": 1,
+        "missing": 124,
+        "weakened": 0,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.16666666666666666,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.6829268292682927,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    }
+  ]
+}
