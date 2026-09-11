@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-11T09:37:51.484Z",
+  "generatedAt": "2026-09-11T09:54:08.311Z",
   "pairs": [
     {
       "ucVersion": "1.3.1",
@@ -337,6 +337,104 @@
         },
         "TGW": {
           "coveredPct": 0,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-1-eusc",
+      "sha8": "4c449443",
+      "measurablePct": 0.4144144144144144,
+      "fullCatalogPct": 0.23834196891191708,
+      "totals": {
+        "covered": 46,
+        "partial": 25,
+        "missing": 122,
+        "weakened": 0,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.08333333333333333,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.2631578947368421,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.4146341463414634,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "VPC": {
+          "coveredPct": 0,
+          "total": 7
+        }
+      }
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-1-govcloud-us",
+      "sha8": "4c449443",
+      "measurablePct": 0.6576576576576577,
+      "fullCatalogPct": 0.37823834196891193,
+      "totals": {
+        "covered": 73,
+        "partial": 4,
+        "missing": 116,
+        "weakened": 0,
+        "total": 193,
+        "inferredMissing": 82
+      },
+      "perFamily": {
+        "G": {
+          "coveredPct": 0.16666666666666666,
+          "total": 72
+        },
+        "IGW": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0,
+          "total": 6
+        },
+        "NET": {
+          "coveredPct": 0.2631578947368421,
+          "total": 19
+        },
+        "RAM": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC": {
+          "coveredPct": 0.6707317073170732,
+          "total": 82
+        },
+        "TGW": {
+          "coveredPct": 0.3333333333333333,
           "total": 3
         },
         "VPC": {

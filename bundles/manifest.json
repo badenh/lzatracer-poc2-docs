@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-11T09:37:51.398Z",
+  "generatedAt": "2026-09-11T09:54:08.230Z",
   "ucName": "LZA Universal Configuration",
   "pairs": [
     {
@@ -58,6 +58,22 @@
       "filename": "coverage-uc1.3.1-lza-uc-v1-3-0-68208093.json",
       "size": 69885,
       "name": "LZA UC v1.3.0 (point-release compare)"
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-1-eusc",
+      "sha8": "4c449443",
+      "filename": "coverage-uc1.3.1-lza-uc-v1-3-1-eusc-4c449443.json",
+      "size": 72161,
+      "name": "LZA UC v1.3.1 — EUSC-adapted"
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-1-govcloud-us",
+      "sha8": "4c449443",
+      "filename": "coverage-uc1.3.1-lza-uc-v1-3-1-govcloud-us-4c449443.json",
+      "size": 73597,
+      "name": "LZA UC v1.3.1 — GovCloud US-adapted"
     }
   ]
 }
