@@ -1,0 +1,55 @@
+{
+  "version": "1",
+  "generatedAt": "2026-09-11T03:30:12.059Z",
+  "pairs": [
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-cccs-medium",
+      "sha8": "46c88b8f",
+      "filename": "coverage-uc1.3.1-lza-cccs-medium-46c88b8f.json",
+      "size": 71318
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-education",
+      "sha8": "ef2b06cf",
+      "filename": "coverage-uc1.3.1-lza-education-ef2b06cf.json",
+      "size": 67542
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-healthcare",
+      "sha8": "2916b696",
+      "filename": "coverage-uc1.3.1-lza-healthcare-2916b696.json",
+      "size": 66988
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-tse-se",
+      "sha8": "fc92d7f4",
+      "filename": "coverage-uc1.3.1-lza-tse-se-fc92d7f4.json",
+      "size": 71143
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-1-0",
+      "sha8": "cabbe04c",
+      "filename": "coverage-uc1.3.1-lza-uc-v1-1-0-cabbe04c.json",
+      "size": 69832
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-2-0",
+      "sha8": "8a9824e0",
+      "filename": "coverage-uc1.3.1-lza-uc-v1-2-0-8a9824e0.json",
+      "size": 69885
+    },
+    {
+      "ucVersion": "1.3.1",
+      "variantSlug": "lza-uc-v1-3-0",
+      "sha8": "68208093",
+      "filename": "coverage-uc1.3.1-lza-uc-v1-3-0-68208093.json",
+      "size": 69885
+    }
+  ]
+}
