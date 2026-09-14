@@ -1,12 +1,12 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-14T01:53:17.745Z",
+  "generatedAt": "2026-09-14T02:24:27.820Z",
   "pairs": [
     {
       "ucVersion": "1.3.1",
       "variantSlug": "lza-cccs-medium",
       "sha8": "46c88b8f",
-      "measurablePct": 0.48314606741573035,
+      "measurablePct": 0.48044692737430167,
       "fullCatalogPct": 0.44559585492227977,
       "totals": {
         "covered": 86,
@@ -14,7 +14,7 @@
         "missing": 68,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
@@ -55,7 +55,7 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-education",
       "sha8": "ef2b06cf",
-      "measurablePct": 0.5617977528089888,
+      "measurablePct": 0.5586592178770949,
       "fullCatalogPct": 0.5181347150259067,
       "totals": {
         "covered": 100,
@@ -63,7 +63,7 @@
         "missing": 69,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
@@ -104,7 +104,7 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-healthcare",
       "sha8": "2916b696",
-      "measurablePct": 0.4606741573033708,
+      "measurablePct": 0.4581005586592179,
       "fullCatalogPct": 0.42487046632124353,
       "totals": {
         "covered": 82,
@@ -112,7 +112,7 @@
         "missing": 69,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
@@ -153,7 +153,7 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-tse-se",
       "sha8": "fc92d7f4",
-      "measurablePct": 0.48314606741573035,
+      "measurablePct": 0.48044692737430167,
       "fullCatalogPct": 0.44559585492227977,
       "totals": {
         "covered": 86,
@@ -161,7 +161,7 @@
         "missing": 68,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
@@ -202,19 +202,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-1-0",
       "sha8": "cabbe04c",
-      "measurablePct": 0.9325842696629213,
-      "fullCatalogPct": 0.8601036269430051,
+      "measurablePct": 0.9329608938547486,
+      "fullCatalogPct": 0.8652849740932642,
       "totals": {
-        "covered": 166,
+        "covered": 167,
         "partial": 12,
-        "missing": 15,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8472222222222222,
+          "coveredPct": 0.8611111111111112,
           "total": 72
         },
         "IGW": {
@@ -251,19 +251,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-2-0",
       "sha8": "8a9824e0",
-      "measurablePct": 0.9382022471910112,
-      "fullCatalogPct": 0.8652849740932642,
+      "measurablePct": 0.9385474860335196,
+      "fullCatalogPct": 0.8704663212435233,
       "totals": {
-        "covered": 167,
+        "covered": 168,
         "partial": 11,
-        "missing": 15,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8472222222222222,
+          "coveredPct": 0.8611111111111112,
           "total": 72
         },
         "IGW": {
@@ -300,19 +300,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-0",
       "sha8": "68208093",
-      "measurablePct": 0.9831460674157303,
-      "fullCatalogPct": 0.9067357512953368,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 175,
+        "covered": 176,
         "partial": 3,
-        "missing": 15,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.9305555555555556,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
@@ -349,19 +349,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-1-eusc",
       "sha8": "4c449443",
-      "measurablePct": 0.6966292134831461,
-      "fullCatalogPct": 0.6424870466321243,
+      "measurablePct": 0.6983240223463687,
+      "fullCatalogPct": 0.6476683937823834,
       "totals": {
-        "covered": 124,
+        "covered": 125,
         "partial": 31,
-        "missing": 38,
+        "missing": 37,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.6111111111111112,
+          "coveredPct": 0.625,
           "total": 72
         },
         "IGW": {
@@ -398,19 +398,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-1-govcloud-us",
       "sha8": "4c449443",
-      "measurablePct": 0.9775280898876404,
-      "fullCatalogPct": 0.9015544041450777,
+      "measurablePct": 0.9776536312849162,
+      "fullCatalogPct": 0.9067357512953368,
       "totals": {
-        "covered": 174,
+        "covered": 175,
         "partial": 4,
-        "missing": 15,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 15
+        "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.9305555555555556,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {

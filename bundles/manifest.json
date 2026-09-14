@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-14T01:53:17.647Z",
+  "generatedAt": "2026-09-14T02:24:27.726Z",
   "ucName": "LZA Universal Configuration",
   "pairs": [
     {
@@ -8,7 +8,7 @@
       "variantSlug": "lza-cccs-medium",
       "sha8": "46c88b8f",
       "filename": "coverage-uc1.3.1-lza-cccs-medium-46c88b8f.json",
-      "size": 458018,
+      "size": 458247,
       "name": "CCCS Medium LZA"
     },
     {
@@ -16,7 +16,7 @@
       "variantSlug": "lza-education",
       "sha8": "ef2b06cf",
       "filename": "coverage-uc1.3.1-lza-education-ef2b06cf.json",
-      "size": 156726,
+      "size": 156953,
       "name": "Education LZA (archived)"
     },
     {
@@ -24,7 +24,7 @@
       "variantSlug": "lza-healthcare",
       "sha8": "2916b696",
       "filename": "coverage-uc1.3.1-lza-healthcare-2916b696.json",
-      "size": 178040,
+      "size": 178268,
       "name": "Healthcare LZA"
     },
     {
@@ -32,7 +32,7 @@
       "variantSlug": "lza-tse-se",
       "sha8": "fc92d7f4",
       "filename": "coverage-uc1.3.1-lza-tse-se-fc92d7f4.json",
-      "size": 457748,
+      "size": 457972,
       "name": "TSE-SE LZA"
     },
     {
@@ -40,7 +40,7 @@
       "variantSlug": "lza-uc-v1-1-0",
       "sha8": "cabbe04c",
       "filename": "coverage-uc1.3.1-lza-uc-v1-1-0-cabbe04c.json",
-      "size": 361979,
+      "size": 362085,
       "name": "LZA UC v1.1.0"
     },
     {
@@ -48,7 +48,7 @@
       "variantSlug": "lza-uc-v1-2-0",
       "sha8": "8a9824e0",
       "filename": "coverage-uc1.3.1-lza-uc-v1-2-0-8a9824e0.json",
-      "size": 361983,
+      "size": 362089,
       "name": "LZA UC v1.2.0"
     },
     {
@@ -56,7 +56,7 @@
       "variantSlug": "lza-uc-v1-3-0",
       "sha8": "68208093",
       "filename": "coverage-uc1.3.1-lza-uc-v1-3-0-68208093.json",
-      "size": 380199,
+      "size": 380305,
       "name": "LZA UC v1.3.0"
     },
     {
@@ -64,7 +64,7 @@
       "variantSlug": "lza-uc-v1-3-1-eusc",
       "sha8": "4c449443",
       "filename": "coverage-uc1.3.1-lza-uc-v1-3-1-eusc-4c449443.json",
-      "size": 367643,
+      "size": 367736,
       "name": "LZA UC v1.3.1 EUSC"
     },
     {
@@ -72,7 +72,7 @@
       "variantSlug": "lza-uc-v1-3-1-govcloud-us",
       "sha8": "4c449443",
       "filename": "coverage-uc1.3.1-lza-uc-v1-3-1-govcloud-us-4c449443.json",
-      "size": 379569,
+      "size": 379675,
       "name": "LZA UC v1.3.1 GovCloud"
     }
   ]
