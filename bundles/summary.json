@@ -1,20 +1,20 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-14T00:30:50.792Z",
+  "generatedAt": "2026-09-14T01:53:17.745Z",
   "pairs": [
     {
       "ucVersion": "1.3.1",
       "variantSlug": "lza-cccs-medium",
       "sha8": "46c88b8f",
-      "measurablePct": 0.4880952380952381,
-      "fullCatalogPct": 0.42487046632124353,
+      "measurablePct": 0.48314606741573035,
+      "fullCatalogPct": 0.44559585492227977,
       "totals": {
-        "covered": 82,
-        "partial": 34,
-        "missing": 75,
+        "covered": 86,
+        "partial": 37,
+        "missing": 68,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
@@ -38,7 +38,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.5121951219512195,
+          "coveredPct": 0.5609756097560976,
           "total": 82
         },
         "TGW": {
@@ -55,15 +55,15 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-education",
       "sha8": "ef2b06cf",
-      "measurablePct": 0.5595238095238095,
-      "fullCatalogPct": 0.48704663212435234,
+      "measurablePct": 0.5617977528089888,
+      "fullCatalogPct": 0.5181347150259067,
       "totals": {
-        "covered": 94,
-        "partial": 21,
-        "missing": 76,
+        "covered": 100,
+        "partial": 22,
+        "missing": 69,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
@@ -87,7 +87,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.7195121951219512,
+          "coveredPct": 0.7926829268292683,
           "total": 82
         },
         "TGW": {
@@ -104,15 +104,15 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-healthcare",
       "sha8": "2916b696",
-      "measurablePct": 0.47023809523809523,
-      "fullCatalogPct": 0.40932642487046633,
+      "measurablePct": 0.4606741573033708,
+      "fullCatalogPct": 0.42487046632124353,
       "totals": {
-        "covered": 79,
-        "partial": 36,
-        "missing": 76,
+        "covered": 82,
+        "partial": 40,
+        "missing": 69,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
@@ -136,7 +136,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.5365853658536586,
+          "coveredPct": 0.573170731707317,
           "total": 82
         },
         "TGW": {
@@ -153,15 +153,15 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-tse-se",
       "sha8": "fc92d7f4",
-      "measurablePct": 0.4880952380952381,
-      "fullCatalogPct": 0.42487046632124353,
+      "measurablePct": 0.48314606741573035,
+      "fullCatalogPct": 0.44559585492227977,
       "totals": {
-        "covered": 82,
-        "partial": 34,
-        "missing": 75,
+        "covered": 86,
+        "partial": 37,
+        "missing": 68,
         "weakened": 2,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
@@ -185,7 +185,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.5121951219512195,
+          "coveredPct": 0.5609756097560976,
           "total": 82
         },
         "TGW": {
@@ -202,19 +202,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-1-0",
       "sha8": "cabbe04c",
-      "measurablePct": 0.9464285714285714,
-      "fullCatalogPct": 0.8238341968911918,
+      "measurablePct": 0.9325842696629213,
+      "fullCatalogPct": 0.8601036269430051,
       "totals": {
-        "covered": 159,
-        "partial": 9,
-        "missing": 25,
+        "covered": 166,
+        "partial": 12,
+        "missing": 15,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8333333333333334,
+          "coveredPct": 0.8472222222222222,
           "total": 72
         },
         "IGW": {
@@ -234,7 +234,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.8414634146341463,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
@@ -251,19 +251,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-2-0",
       "sha8": "8a9824e0",
-      "measurablePct": 0.9464285714285714,
-      "fullCatalogPct": 0.8238341968911918,
+      "measurablePct": 0.9382022471910112,
+      "fullCatalogPct": 0.8652849740932642,
       "totals": {
-        "covered": 159,
-        "partial": 9,
-        "missing": 25,
+        "covered": 167,
+        "partial": 11,
+        "missing": 15,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8333333333333334,
+          "coveredPct": 0.8472222222222222,
           "total": 72
         },
         "IGW": {
@@ -283,7 +283,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.8414634146341463,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
@@ -300,19 +300,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-0",
       "sha8": "68208093",
-      "measurablePct": 0.9821428571428571,
-      "fullCatalogPct": 0.8549222797927462,
+      "measurablePct": 0.9831460674157303,
+      "fullCatalogPct": 0.9067357512953368,
       "totals": {
-        "covered": 165,
+        "covered": 175,
         "partial": 3,
-        "missing": 25,
+        "missing": 15,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8888888888888888,
+          "coveredPct": 0.9305555555555556,
           "total": 72
         },
         "IGW": {
@@ -332,7 +332,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.8414634146341463,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
@@ -349,19 +349,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-1-eusc",
       "sha8": "4c449443",
-      "measurablePct": 0.6964285714285714,
-      "fullCatalogPct": 0.6062176165803109,
+      "measurablePct": 0.6966292134831461,
+      "fullCatalogPct": 0.6424870466321243,
       "totals": {
-        "covered": 117,
-        "partial": 28,
-        "missing": 48,
+        "covered": 124,
+        "partial": 31,
+        "missing": 38,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.5694444444444444,
+          "coveredPct": 0.6111111111111112,
           "total": 72
         },
         "IGW": {
@@ -381,7 +381,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.5487804878048781,
+          "coveredPct": 0.5975609756097561,
           "total": 82
         },
         "TGW": {
@@ -398,19 +398,19 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-1-govcloud-us",
       "sha8": "4c449443",
-      "measurablePct": 0.9761904761904762,
-      "fullCatalogPct": 0.8497409326424871,
+      "measurablePct": 0.9775280898876404,
+      "fullCatalogPct": 0.9015544041450777,
       "totals": {
-        "covered": 164,
+        "covered": 174,
         "partial": 4,
-        "missing": 25,
+        "missing": 15,
         "weakened": 0,
         "total": 193,
-        "inferredMissing": 25
+        "inferredMissing": 15
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0.8888888888888888,
+          "coveredPct": 0.9305555555555556,
           "total": 72
         },
         "IGW": {
@@ -430,7 +430,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0.8292682926829268,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
