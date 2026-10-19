@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-09-27T00:47:40.985Z",
+  "generatedAt": "2026-10-19T06:54:35.518Z",
   "pairs": [
     {
       "ucVersion": "1.3.1",
@@ -46,6 +46,120 @@
           "total": 3
         },
         "VPC": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.7142857142857143,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.5714285714285714,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 0,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0.8333333333333334,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.75,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.5,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 0.2647058823529412,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 0.5,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 0.8888888888888888,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.5,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
@@ -98,6 +212,120 @@
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.42857142857142855,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 0,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.375,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.25,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 0.5,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 1,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.16666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
       }
     },
     {
@@ -144,6 +372,120 @@
           "total": 3
         },
         "VPC": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.7142857142857143,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.5714285714285714,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 0,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.375,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.25,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 0.5,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 0.4411764705882353,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.5,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.16666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
@@ -196,6 +538,120 @@
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.7142857142857143,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.3333333333333333,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.5714285714285714,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 0,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 0.8333333333333334,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.75,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.5,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 0.2647058823529412,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 0.5,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 0.8888888888888888,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.5,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
       }
     },
     {
@@ -242,6 +698,120 @@
           "total": 3
         },
         "VPC": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.7142857142857143,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 1,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0.8421052631578947,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.625,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.375,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 1,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.5,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
@@ -294,6 +864,120 @@
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.7142857142857143,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 1,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0.8421052631578947,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.625,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.375,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 1,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.6666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
       }
     },
     {
@@ -340,6 +1024,120 @@
           "total": 3
         },
         "VPC": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 1,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0.9736842105263158,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.75,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.5,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 1,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.6666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
@@ -392,6 +1190,120 @@
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 0,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0.9736842105263158,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.75,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.375,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 0.3235294117647059,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 0,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 0.25,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.6666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
       }
     },
     {
@@ -438,6 +1350,120 @@
           "total": 3
         },
         "VPC": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        }
+      },
+      "perSubfamily": {
+        "G-ACT": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-CT": {
+          "coveredPct": 0.6666666666666666,
+          "total": 3
+        },
+        "G-DCP": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "G-OM": {
+          "coveredPct": 0.8571428571428571,
+          "total": 7
+        },
+        "G-RCP": {
+          "coveredPct": 1,
+          "total": 16
+        },
+        "G-SCP": {
+          "coveredPct": 0.9736842105263158,
+          "total": 38
+        },
+        "IGW": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "LOG": {
+          "coveredPct": 1,
+          "total": 6
+        },
+        "NET-ARC": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "NET-LOG": {
+          "coveredPct": 0.75,
+          "total": 8
+        },
+        "NET-SEC": {
+          "coveredPct": 0.5,
+          "total": 8
+        },
+        "RAM": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-CRY": {
+          "coveredPct": 0,
+          "total": 2
+        },
+        "SEC-CWL": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-Config": {
+          "coveredPct": 0.9705882352941176,
+          "total": 34
+        },
+        "SEC-DPPE": {
+          "coveredPct": 1,
+          "total": 5
+        },
+        "SEC-GD": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-IAA": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-IAM-POL": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IAM-PW": {
+          "coveredPct": 1,
+          "total": 9
+        },
+        "SEC-IAM-ROLE": {
+          "coveredPct": 1,
+          "total": 2
+        },
+        "SEC-IDC": {
+          "coveredPct": 1,
+          "total": 1
+        },
+        "SEC-MACIE": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "SEC-SNS": {
+          "coveredPct": 0.75,
+          "total": 4
+        },
+        "SEC-SSM": {
+          "coveredPct": 0.6666666666666666,
+          "total": 6
+        },
+        "SEC-SecHub": {
+          "coveredPct": 1,
+          "total": 4
+        },
+        "TGW": {
+          "coveredPct": 1,
+          "total": 3
+        },
+        "VPC-DSGN": {
           "coveredPct": 0.8571428571428571,
           "total": 7
         }
