@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "generatedAt": "2026-11-07T01:21:13.873Z",
+  "generatedAt": "2026-11-09T04:14:40.176Z",
   "pairs": [
     {
       "ucVersion": "1.0.0",
@@ -4570,19 +4570,19 @@
       "ucVersion": "1.1.0",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -4602,7 +4602,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -4620,7 +4620,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -4636,7 +4636,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -4676,7 +4676,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -4733,19 +4733,19 @@
       "ucVersion": "1.2.0",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.8333333333333334,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 182,
+        "covered": 5,
+        "partial": 1,
+        "missing": 176,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 176
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -4765,7 +4765,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -4783,7 +4783,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -4799,7 +4799,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -4839,7 +4839,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -4896,97 +4896,97 @@
       "ucVersion": "1.3.0",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9329608938547486,
+      "fullCatalogPct": 0.8652849740932642,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 167,
+        "partial": 12,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.8611111111111112,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.5789473684210527,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.7142857142857143,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.8421052631578947,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.625,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.375,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -4994,63 +4994,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -5059,97 +5059,97 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9329608938547486,
+      "fullCatalogPct": 0.8652849740932642,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 167,
+        "partial": 12,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.8611111111111112,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.5789473684210527,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.7142857142857143,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.8421052631578947,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.625,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.375,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -5157,63 +5157,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -5222,97 +5222,97 @@
       "ucVersion": "1.3.2",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9329608938547486,
+      "fullCatalogPct": 0.8652849740932642,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 167,
+        "partial": 12,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.8611111111111112,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.5789473684210527,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.7142857142857143,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.8421052631578947,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.625,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.375,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -5320,63 +5320,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -5385,97 +5385,97 @@
       "ucVersion": "1.4.0",
       "variantSlug": "lza-uc-v1-0-0",
       "sha8": "598dc816",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9277777777777778,
+      "fullCatalogPct": 0.8477157360406091,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 197,
+        "covered": 167,
+        "partial": 13,
+        "missing": 17,
         "weakened": 0,
         "total": 197,
         "inferredMissing": 17
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.8157894736842105,
           "total": 76
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.5789473684210527,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.9146341463414634,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.7142857142857143,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.7619047619047619,
           "total": 42
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.625,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.375,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -5483,63 +5483,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -8482,19 +8482,19 @@
       "ucVersion": "1.0.0",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -8514,7 +8514,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -8532,7 +8532,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -8548,7 +8548,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -8588,7 +8588,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -8645,19 +8645,19 @@
       "ucVersion": "1.1.0",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -8677,7 +8677,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -8695,7 +8695,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -8711,7 +8711,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -8751,7 +8751,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -8808,19 +8808,19 @@
       "ucVersion": "1.2.0",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.03296703296703297,
       "totals": {
-        "covered": 0,
+        "covered": 6,
         "partial": 0,
-        "missing": 182,
+        "missing": 176,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 176
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -8840,7 +8840,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.037037037037037035,
           "total": 81
         },
         "TGW": {
@@ -8858,7 +8858,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -8874,7 +8874,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -8914,7 +8914,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -8950,7 +8950,7 @@
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.2,
           "total": 5
         },
         "SEC-SecHub": {
@@ -8971,97 +8971,97 @@
       "ucVersion": "1.3.0",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -9069,63 +9069,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -9134,97 +9134,97 @@
       "ucVersion": "1.3.2",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -9232,63 +9232,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -9297,97 +9297,97 @@
       "ucVersion": "1.4.0",
       "variantSlug": "lza-uc-v1-3-1",
       "sha8": "4c449443",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9833333333333333,
+      "fullCatalogPct": 0.8984771573604061,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 197,
+        "covered": 177,
+        "partial": 3,
+        "missing": 17,
         "weakened": 0,
         "total": 197,
         "inferredMissing": 17
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9078947368421053,
           "total": 76
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9047619047619048,
           "total": 42
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -9395,63 +9395,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -11742,19 +11742,19 @@
       "ucVersion": "1.0.0",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -11774,7 +11774,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -11792,7 +11792,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -11808,7 +11808,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -11848,7 +11848,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -11905,19 +11905,19 @@
       "ucVersion": "1.1.0",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -11937,7 +11937,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -11955,7 +11955,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -11971,7 +11971,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -12011,7 +12011,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -12068,19 +12068,19 @@
       "ucVersion": "1.2.0",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.03296703296703297,
       "totals": {
-        "covered": 0,
+        "covered": 6,
         "partial": 0,
-        "missing": 182,
+        "missing": 176,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 176
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -12100,7 +12100,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.037037037037037035,
           "total": 81
         },
         "TGW": {
@@ -12118,7 +12118,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -12134,7 +12134,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -12174,7 +12174,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -12210,7 +12210,7 @@
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.2,
           "total": 5
         },
         "SEC-SecHub": {
@@ -12231,97 +12231,97 @@
       "ucVersion": "1.3.0",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -12329,63 +12329,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -12394,97 +12394,97 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -12492,63 +12492,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -12557,97 +12557,97 @@
       "ucVersion": "1.4.0",
       "variantSlug": "lza-uc-v1-3-2",
       "sha8": "34f777cc",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9833333333333333,
+      "fullCatalogPct": 0.8984771573604061,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 197,
+        "covered": 177,
+        "partial": 3,
+        "missing": 17,
         "weakened": 0,
         "total": 197,
         "inferredMissing": 17
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9078947368421053,
           "total": 76
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9047619047619048,
           "total": 42
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -12655,63 +12655,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -12720,19 +12720,19 @@
       "ucVersion": "1.0.0",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -12752,7 +12752,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -12770,7 +12770,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -12786,7 +12786,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -12826,7 +12826,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -12883,19 +12883,19 @@
       "ucVersion": "1.1.0",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.027472527472527472,
       "totals": {
-        "covered": 0,
+        "covered": 5,
         "partial": 0,
-        "missing": 182,
+        "missing": 177,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 177
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -12915,7 +12915,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.024691358024691357,
           "total": 81
         },
         "TGW": {
@@ -12933,7 +12933,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -12949,7 +12949,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -12989,7 +12989,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -13046,19 +13046,19 @@
       "ucVersion": "1.2.0",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 1,
+      "fullCatalogPct": 0.03296703296703297,
       "totals": {
-        "covered": 0,
+        "covered": 6,
         "partial": 0,
-        "missing": 182,
+        "missing": 176,
         "weakened": 0,
         "total": 182,
         "inferredMissing": 176
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.046153846153846156,
           "total": 65
         },
         "IGW": {
@@ -13078,7 +13078,7 @@
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.037037037037037035,
           "total": 81
         },
         "TGW": {
@@ -13096,7 +13096,7 @@
           "total": 6
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
@@ -13112,7 +13112,7 @@
           "total": 13
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.02702702702702703,
           "total": 37
         },
         "IGW": {
@@ -13152,7 +13152,7 @@
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 0.4,
           "total": 5
         },
         "SEC-GD": {
@@ -13188,7 +13188,7 @@
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.2,
           "total": 5
         },
         "SEC-SecHub": {
@@ -13209,97 +13209,97 @@
       "ucVersion": "1.3.0",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -13307,63 +13307,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -13372,97 +13372,97 @@
       "ucVersion": "1.3.1",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -13470,63 +13470,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
@@ -13535,97 +13535,97 @@
       "ucVersion": "1.3.2",
       "variantSlug": "lza-uc-v1-4-0",
       "sha8": "96aa5e73",
-      "measurablePct": 0,
-      "fullCatalogPct": 0,
+      "measurablePct": 0.9832402234636871,
+      "fullCatalogPct": 0.9119170984455959,
       "totals": {
-        "covered": 0,
-        "partial": 0,
-        "missing": 193,
+        "covered": 176,
+        "partial": 3,
+        "missing": 14,
         "weakened": 0,
         "total": 193,
         "inferredMissing": 14
       },
       "perFamily": {
         "G": {
-          "coveredPct": 0,
+          "coveredPct": 0.9444444444444444,
           "total": 72
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET": {
-          "coveredPct": 0,
+          "coveredPct": 0.6842105263157895,
           "total": 19
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.926829268292683,
           "total": 82
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       },
       "perSubfamily": {
         "G-ACT": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-CT": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 3
         },
         "G-DCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "G-OM": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         },
         "G-RCP": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 16
         },
         "G-SCP": {
-          "coveredPct": 0,
+          "coveredPct": 0.9736842105263158,
           "total": 38
         },
         "IGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "LOG": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 6
         },
         "NET-ARC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "NET-LOG": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 8
         },
         "NET-SEC": {
-          "coveredPct": 0,
+          "coveredPct": 0.5,
           "total": 8
         },
         "RAM": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-CRY": {
@@ -13633,63 +13633,63 @@
           "total": 2
         },
         "SEC-CWL": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-Config": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 34
         },
         "SEC-DPPE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 5
         },
         "SEC-GD": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-IAA": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-IAM-POL": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IAM-PW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 9
         },
         "SEC-IAM-ROLE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 2
         },
         "SEC-IDC": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 1
         },
         "SEC-MACIE": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "SEC-SNS": {
-          "coveredPct": 0,
+          "coveredPct": 0.75,
           "total": 4
         },
         "SEC-SSM": {
-          "coveredPct": 0,
+          "coveredPct": 0.6666666666666666,
           "total": 6
         },
         "SEC-SecHub": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 4
         },
         "TGW": {
-          "coveredPct": 0,
+          "coveredPct": 1,
           "total": 3
         },
         "VPC-DSGN": {
-          "coveredPct": 0,
+          "coveredPct": 0.8571428571428571,
           "total": 7
         }
       }
